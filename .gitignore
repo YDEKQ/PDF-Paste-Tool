@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+build/
+__pycache/
+dist/
+images/
+setup.py/
+main.spec
