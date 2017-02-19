@@ -6,8 +6,8 @@ node_modules/
 public/
 .deploy*/
 build/
-__pycache/
+__pycache__/
 dist/
 images/
-setup.py/
+setup.py
 main.spec
